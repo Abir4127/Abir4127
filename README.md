@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=This+is+a+secondary+account;Please+visit+my+main+profile" alt="Typing SVG" />
   
-  <h1>👋 Hello, I'm Abir4127</h1>
+  <h1>👋 Hello, I'm Arifuzzaman</h1>
   <h2>⚠️ This is my secondary account ⚠️</h2>
   
   <br>
